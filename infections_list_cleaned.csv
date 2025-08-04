@@ -1,0 +1,231 @@
+Infectious Agent,Common Name,Diagnosis,Treatment,VaccineStatus,Value,Attribute,Vaccine(s),Diagnosis Status,Treatment Status,Vaccine Status,Missing Count
+Acinetobacter baumannii,Acinetobacterinfections,Culture,Supportive care,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+"Actinomyces israelii,Actinomyces gerencseriaeandPropionibacterium propionicus",Actinomycosis,Histologic findings,"Penicillin,doxycycline, andsulfonamides",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Adenoviridae,Adenovirus infection,"Antigendetection,polymerase chain reactionassay,virus isolation, andserology",Most infections are mild and require no therapy or only symptomatic treatment.,Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Alphavirus,Chikungunya,"Laboratory criteria include adecreased lymphocyte countconsistent withviremia.Definitive laboratory diagnosis can be accomplished through viral isolation, RT-PCR, orserologicaldiagnosis.",Supportive care,Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Anaplasma phagocytophilum,Human granulocytic anaplasmosis(HGA),PCR,Doxycycline,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Anaplasmaspecies,Anaplasmosis,indirect immunofluorescence antibody assay for IgG,"Tetracycline drugs (includingtetracycline,chlortetracycline,oxytetracycline,rolitetracycline,doxycycline, andminocycline) andimidocarb",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Ancylostoma duodenaleandNecator americanus,Hookworminfection,,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Angiostrongylus,Angiostrongyliasis,"Lumbar puncture, brain imaging, serology",Albendazole,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Anisakis,Anisakiasis,"Gastroscopic examination, or histopathologic examination",Albendazole,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Arcanobacterium haemolyticum,Arcanobacterium haemolyticuminfection,Culture in human bloodagarplates,"erythromycin(proposed as the first-line drug),clindamycin,gentamicin, andcephalosporins",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Ascaris lumbricoides,Ascariasis,Fecal smear,"Albendazole,mebendazole,levamisoleandpyrantel pamoate",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Aspergillusspecies,Aspergillosis,"Chest X-rayand CT,microscopybysilver stains",Voriconazoleandliposomal amphotericin Bin combination with surgicaldebridement,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Astroviridaespecies,Astrovirusinfection,"Electron microscopy, enzyme-immunoassay (ELISA),immunofluorescence, andpolymerase chain reaction",Supportive care,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Babesiaspecies,Babesiosis,Giemsa-stainedthin-film blood smear,"Atovaquoneandazithromycin. In life-threatening cases,exchange transfusionis performed.",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Bacillus anthracis,Anthrax,"Culture, PCR","Large doses of intravenous and oral antibiotics, such asfluoroquinolones(ciprofloxacin),doxycycline,erythromycin,vancomycin, orpenicillin",Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Bacillus cereus,Bacillus cereusinfection,Culture,Vancomycin,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Bacteroidesspecies,Bacteroidesinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Balantidium coli,Balantidiasis,"microscopic examination of stools, or colonoscopy or sigmoidoscopy","Tetracycline,metronidazoleoriodoquinol",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Bartonella,Bartonellosis,"microscopy,serology, andPCR",Antibiotics,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Bartonella bacilliformis,Carrion's disease,"Peripheral blood smear withGiemsa stain, Columbia blood agar cultures,immunoblot, indirectimmunofluorescence, andPCR",Fluoroquinolones(such asciprofloxacin) orchloramphenicolin adults and chloramphenicol plusbeta-lactamsin children,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Bartonella henselae,Cat-scratch disease,Polymerase chain reaction,Azithromycin,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Batrachochytrium dendrabatidis,Chytridiomycosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Baylisascarisspecies,Baylisascarisinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+BK virus,BK virusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Blastocystisspecies,Blastocystosis,microscopic examination of a chemically preserved stool specimen,Lack of scientific study to support the efficacy of any particular treatment,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Blastomyces dermatitidis,Blastomycosis,"KOH prep, cytology, or histology",Itraconazoleorketoconazole,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Bordetella pertussis,Pertussis(whooping cough),Nasopharyngeal swab,"erythromycin,clarithromycin, orazithromycin",Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+"Borrelia burgdorferi,Borrelia garinii, andBorrelia afzelii",Lyme disease(Lyme borreliosis),"Based on symptoms, tick exposure, blood tests","Doxycycline,amoxicillin,ceftriaxone,cefuroxime",Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+"Borrelia hermsii,Borrelia recurrentis, and otherBorreliaspecies",Relapsing fever,blood smear,Tetracycline-class antibiotics,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Brucellaspecies,Brucellosis,Culture,"Tetracyclines,rifampicin, and theaminoglycosidesstreptomycinandgentamicin",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Bunyaviridaespecies,Hemorrhagic fever with renal syndrome(HFRS),HFRS is difficult to diagnose on clinical grounds alone andserologicalevidence is often needed.,There is no cure for HFRS. Treatment involves supportive therapy including renal dialysis.,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Burkholderia mallei,Glanders,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Burkholderia pseudomallei,Melioidosis(Whitmore's disease),Growing the bacteria in culture mediums,"Ceftazidime,meropenem,co-trimoxazole",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Caliciviridaespecies,Calicivirusinfection (NorovirusandSapovirus),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Campylobacterspecies,Campylobacteriosis,Stool culture,"Erythromycincan be used in children, andtetracyclinein adults.",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Chlamydia trachomatis,Trachoma,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Chlamydophila pneumoniae,Chlamydophila pneumoniaeinfection (Taiwan acute respiratory agent or TWAR),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Chlamydophila psittaci,Psittacosis,Culture,tetracyclinesandchloramphenicol,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Clonorchis sinensis,Clonorchiasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Clostridioides difficile,Clostridioides difficilecolitis,"Colonoscopyorsigmoidoscopy, cytotoxicity assay, toxin ELISA",Vancomycinorfidaxomicinby mouth,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Clostridium botulinum; Note: Botulism is not an infection byClostridium botulinumbut caused by the intake ofbotulinum toxin.,Botulism(and Infant botulism),"Enzyme-linked immunosorbent assays(ELISAs),electrochemiluminescent(ECL) tests",Botulismantitoxinand supportive care,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Clostridium perfringens,Food poisoningbyClostridium perfringens,Stool test,Supportive care,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Clostridium tetani,Tetanus(lockjaw),,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Coccidioides immitisandCoccidioides posadasii,Coccidioidomycosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Coccidioides immitisorCoccidioides posadasii.[41],Valley fever,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Colorado tick fever virus(CTFV),Colorado tick fever(CTF),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Corynebacterium diphtheriae,Diphtheria,"Laboratory criteriaIsolation ofC. diphtheriaecultureHistopathologic diagnosisToxin demonstrationIn vivo tests (guinea pig inoculation)In vitro test: Elek's gel precipitation test, PCR, ELISA, ICAClinical criteriaURT illness with sore throatLow-grade feverAn adherent, dense, grey pseudomembrane covering the posterior aspect of the pharynx","Metronidazole,Erythromycin,Procaine penicillin G",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Coxiella burnetii,Q fever,Based on serology,"doxycycline,tetracycline,chloramphenicol,ciprofloxacin, andofloxacin",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Coxsackie B virus,Coxsackie B virusinfection,Enterovirus infection is diagnosed mainly viaserologicaltests such asELISAand from cell culture.,There is no well-accepted treatment for the Coxsackie B group of viruses.,Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Crimean-Congo hemorrhagic fever virus,Crimean-Congo hemorrhagic fever(CCHF),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Cryptococcus neoformans,Cryptococcosis,India inkof thecerebrospinal fluid(CSF),IntravenousAmphotericin Bcombined withflucytosineby mouth,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Cryptosporidiumspecies,Cryptosporidiosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Cyclospora cayetanensis,Cyclosporiasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Cytomegalovirus,Cytomegalovirusinfection,"Blood and urine tests, biopsy","Cidofovir, foscarnet, ganciclovir, valganciclovir",Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+"Dengueviruses (DEN-1, DEN-2, DEN-3 and DEN-4) –Flaviviruses",Dengue fever,Clinical diagnosis,Treatment depends on the symptoms.,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Dientamoeba fragilis,Dientamoebiasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Diphyllobothrium,Diphyllobothriasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Dracunculus medinensis,Dracunculiasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Eastern equine encephalitis virus,Eastern equine encephalitis(EEE),Blood tests,"Corticosteroids,anticonvulsants, and supportive measures (treating symptoms)",Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Ebolavirus(EBOV),Ebolahemorrhagic fever,,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Echinococcusspecies,Echinococcosis,"Imaging, Serology test",Surgical removal of the cysts combined with chemotherapy,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Ehrlichia chaffeensis,Human monocytic ehrlichiosis,PCR,Doxycycline,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Ehrlichia ewingii,Human ewingii ehrlichiosis,The diagnosis can be confirmed by usingPCR. A peripheral blood smear can also be examined for intracytoplasmic inclusions called morulae.,Doxycycline,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Ehrlichiaspecies,Ehrlichiosis,,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Entamoeba histolytica,Amoebiasis,Microscopy,Those with symptoms require treatment with an amoebicidal tissue-active agent and a luminal cysticidal agent. Individuals that are asymptomatic only need a luminal cysticidal agent.,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Enterobius vermicularis,Enterobiasis(Pinworm infection),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Enterococcusspecies,Enterococcusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+"Enteroviruses, mainlyCoxsackie Avirusandenterovirus 71(EV71)","Hand, foot and mouth disease(HFMD)","A diagnosis usually can be made by the presenting signs and symptoms alone. If the diagnosis is unclear, a throat swab or stool specimen may be taken.","Medications are usually not needed as hand, foot, and mouth disease is a viral disease that typically resolves on its own.",Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Enterovirusspecies,Enterovirusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Epstein–Barr virus(EBV),Epstein–Barr virus infectious mononucleosis(Mono),"Diagnostic modalities for infectious mononucleosis include:Person's age, with highest risk at 10 to 30 years.Medical history, such as close contact with other people with infectious mononucleosisPhysical examination, including palpation of anyenlarged lymph nodesin the neck, orenlarged spleen.Theheterophile antibody testis ascreeningtest that gives results.Serological teststake longer time, but are more accurate.","Infectious mononucleosis is generallyself-limiting, so only symptomatic or supportive treatments are used.",Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+"Escherichia coliO157:H7, O111 and O104:H4",Hemolytic-uremic syndrome(HUS),"First diagnosis of aHUS is often made in the context of an initial, complement-triggering infection, and Shiga-toxin has also been implicated as a trigger that identifies patients with aHUS.","Treatment involvessupportive careand may includedialysis,steroids,blood transfusions, andplasmapheresis.",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Fasciola hepaticaandFasciola gigantica,Fasciolasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Fasciolopsis buski,Fasciolopsiasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Filarioideasuperfamily,Filariasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Francisella tularensis,Tularemia,,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
+Fusobacteriumspecies,Fusobacteriuminfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Geotrichum candidum,Geotrichosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Giardia lamblia,Giardiasis,Detection of antigens on the surface of organisms in stool,"Treatment is not always necessary. If medications are needed, anitroimidazolemedication is used such asmetronidazole,tinidazole,secnidazoleorornidazole.",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+GnathostomaspinigerumandGnathostoma hispidum,Gnathostomiasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Green algaeDesmodesmusarmatus,Desmodesmusinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Group AStreptococcusspecies,Scarlet fever,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Guanarito virus,Venezuelan hemorrhagic fever,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Haemophilus ducreyi,Chancroid,Clinical diagnosis,"TheCDCrecommendation is either a single oral dose (1 gram) ofazithromycin, a single IM dose (250 mg) ofceftriaxone, oral (500 mg) oferythromycinthree times a day for seven days, or oral (500 mg) ofciprofloxacintwice a day for three days.",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Haemophilus influenzae,Haemophilus influenzaeinfection,Gram stain,"In severe cases,cefotaximeandceftriaxonedelivered into the bloodstream, and for the less severe cases, an association ofampicillinandsulbactam,cephalosporinsof the second and third generation, orfluoroquinolonesare preferred.",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Heartland virus,Heartland virusdisease,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Helicobacter pylori,Helicobacter pyloriinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Hendra virus,Hendra virusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Hepatitis A virus,Hepatitis A,Blood tests,"Supportive care,liver transplantation",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Hepatitis B virus,Hepatitis B,Blood tests,"Antiviral medication(tenofovir,interferon),liver transplantation",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Hepatitis C virus,Hepatitis C,Blood testing forantibodiesor viralRNA,"Antivirals (sofosbuvir,simeprevir, others)",Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Hepatitis D Virus,Hepatitis D,Immunoglobulin G,"Antivirals, pegylated interferon alpha",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Hepatitis E virus,Hepatitis E,Hepatitis E virus (HEV),"Rest,ribavirin(if chronic)",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Herpes simplex virus 1 and 2(HSV-1 and HSV-2),Herpes simplex,"Based on symptoms,PCR,viral culture","Aciclovir,valaciclovir,paracetamol(acetaminophen), topical lidocaine",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Histoplasma capsulatum,Histoplasmosis,"Histoplasmosis can be diagnosed by samples containing the fungus taken from sputum (viabronchoalveolar lavage), blood, or infected organs.","In the majority ofimmunocompetentindividuals, histoplasmosis resolves without any treatment. Typical treatment of severe disease first involves treatment withamphotericin B, followed by oralitraconazole.",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+HIV (Human immunodeficiency virus),AIDS (acquired immunodeficiency syndrome),"Antibody test, p24 antigen test, PCR",Treatment is typically anon-nucleoside reverse transcriptase inhibitor(NNRTI) plus twonucleoside analog reverse transcriptase inhibitors(NRTIs),Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Human bocavirus(HBoV),Human bocavirusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Human herpesvirus 6(HHV-6) andhuman herpesvirus 7(HHV-7),Exanthem subitum(Sixth disease),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Human metapneumovirus(hMPV),Human metapneumovirusinfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Human parainfluenza viruses(HPIV),Human parainfluenza virusinfectionCroup,,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Human T-lymphotropic virus 1(HTLV-1),Human T-lymphotropic virus 1infection,,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Hymenolepis nanaandHymenolepis diminuta,Hymenolepiasis,Examination of the stool for eggs and parasites,"Praziquantel,niclosamide",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+"Intestinal disease byCapillaria philippinensis, hepatic disease byCapillaria hepaticaand pulmonary disease byCapillaria aerophila",Capillariasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Isospora belli,Isosporiasis,Microscopic demonstration of the large typically shaped oocysts is the basis for diagnosis.,Trimethoprim-sulfamethoxazole,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Japanese encephalitis virus,Japanese encephalitis,"Available tests detecting JE virus-specific IgM antibodies in serum and/orcerebrospinal fluid, for example by IgM captureELISA.",Supportive,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+JC virus,Progressive multifocal leukoencephalopathy,"finding JC virusDNAinspinal fluid, brain CT",,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,None,None,2
+Junin virus,Argentine hemorrhagic fever,,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Kingella kingae,Kingella kingaeinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Klebsiella granulomatis,Granuloma inguinale(Donovanosis),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Lassa virus,Lassa fever,Laboratory testing,Supportive,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Legionella pneumophila,Legionellosis(Legionnaires' disease),"Urinaryantigen test,sputum culture","Effectiveantibioticsinclude mostmacrolides,tetracyclines,ketolides, andquinolones.",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Leishmaniaspecies,Leishmaniasis,Hematology laboratory by direct visualization of theamastigotes(Leishman–Donovan bodies).,"For visceral leishmaniasis in India, South America, and the Mediterranean,liposomal amphotericin Bis the recommended treatment and is often used as a single dose.",Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Leptospiraspecies,Leptospirosis,Testing blood forantibodiesagainst the bacterium or itsDNA,"Doxycycline,penicillin,ceftriaxone",Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+List of bacterial vaginosis microbiota,Bacterial vaginosis,Gram stainand whiff test,Metronidazoleorclindamycin,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Listeria monocytogenes,Listeriosis,Culture of blood orspinal fluid,"Ampicillin,gentamicin",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Lymphocytic choriomeningitis virus(LCMV),Lymphocytic choriomeningitis,Blood test,Symptomatic and supportive,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Machupo virus,Bolivian hemorrhagic fever,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Malasseziaspecies,Tinea versicolor(Pityriasis versicolor),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Marburg virus,Marburghemorrhagic fever(MHF),Blood test,Supportive,Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Measles virus,Subacute sclerosing panencephalitis,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Microsporidiaphylum,Microsporidiosis,PCR,Fumagillinhas been used in the treatment. Another agent used isalbendazole.,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Middle East respiratory syndrome–related coronavirus,Middle East respiratory syndrome(MERS),rRT-PCR testing,Symptomaticandsupportive,Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Molluscum contagiosum virus(MCV),Molluscum contagiosum(MC),Based on appearance,"Cimetidine,podophyllotoxin",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Monkeypox virus,Mpox,Testing for viral DNA,"Supportive,antivirals,vaccinia immune globulin",Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+most commonlyChlamydia trachomatisandNeisseria gonorrhoeae,Neonatal conjunctivitis(Ophthalmia neonatorum),,"Antibiotic ointment (erythromycin,tetracycline, or rarelysilver nitrateorArgyrol)",No Vaccine,Has Treatment,TreatmentStatus,No,None,Has,None,2
+Mucoralesorder (Mucormycosis) andEntomophthoralesorder (Entomophthoramycosis),Zygomycosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+multiple,Pneumonia,"Based on symptoms,chest X-ray","Antibiotics,antivirals,oxygen therapy",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+multiple bacteria,Bacterial pneumonia,"Sputum Gram stain and culture, Chest radiography",Antibiotics,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+multiple viruses,Viral pneumonia,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Mumps virus,Mumps,"Antibody testing, viral cultures, and reverse transcription polymerase chain reaction",Supportive,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Mycobacterium lepraeandMycobacterium lepromatosis,Leprosy,"In countries where people are frequently infected, a person is considered to have leprosy if they have one of the following two signs:Skin lesion consistent with leprosy and with definite sensory loss.Positive skin smears.","Rifampicin,dapsone,clofazimine",Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Mycobacterium ulcerans,Buruli ulcer,real-time PCR,The most widely used antibiotic regimen is once daily oralrifampicinplus twice daily oralclarithromycin.,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Mycoplasma genitalium,Mycoplasma genitaliuminfection,Nucleic acid amplification test,"Azithromycin,moxifloxacin",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Mycoplasma pneumoniae,Mycoplasma pneumonia,"Chest X-Ray, Chest CT, blood test","Erythromycin,doxycycline",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Neisseria gonorrhoeae,Gonorrhea,Gram stainandculture,Ceftriaxoneby injection andazithromycinby mouth,Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Neisseria meningitidis,Meningococcal disease,,"Treatment in primary care usually involves intramuscular administration ofbenzylpenicillin. Once in the hospital, the antibiotics of choice are usually IV broad spectrum 3rd generationcephalosporins.",Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,Has,Has,1
+Nipah virus,Nipah virus infection,,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
+Norovirus,Norovirus,Based on symptoms,Supportive care,Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+numerous species ofbacteria(Actinomycetoma) andfungi(Eumycetoma),Mycetoma,"Ultrasound,fine needle aspiration",Antibioticsorantifungalmedication,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Onchocerca volvulus,Onchocerciasis(River blindness),,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
+One of thehuman papillomaviruses,Human papillomavirus(HPV) infection,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Opisthorchis viverriniandOpisthorchis felineus,Opisthorchiasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Orthomyxoviridaespecies,Influenza(flu),"Diagnostic methods that can identify influenza includeviral cultures, antibody- and antigen-detecting tests, and nucleic acid-based tests.","Treatment of influenza in cases of mild or moderate illness is supportive and includes anti-fever medications such asacetaminophenandibuprofen, adequate fluid intake to avoid dehydration, and resting at home.",Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Paracoccidioides brasiliensis,Paracoccidioidomycosis(South American blastomycosis),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+parasiticdipterousfly larvae,Myiasis,Examination and serologic testing,Petroleum jelly over the central punctum,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Parvovirus B19,Erythema infectiosum(Fifth disease),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Pasteurellaspecies,Pasteurellosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Pediculus humanus capitis,Pediculosis capitis(Head lice),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Pediculus humanus corporis,Pediculosis corporis(Body lice),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Piedraia hortae,Black piedra,Stain or culture,"Antifungal shampoos such aspyrithione zinc,formaldehydeandsalicylic acid",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Plasmodiumspecies,Malaria,"Examination of the blood,antigen detection tests",Antimalarial medication,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Pneumocystis jirovecii,Pneumocystis pneumonia(PCP),chest X-rayand anarterial oxygen level,trimethoprim/sulfamethoxazole,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+Poliovirus,Poliomyelitis,Finding the virus in thefecesorantibodiesin the blood,Supportive care,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Prevotellaspecies,Prevotellainfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+PRNP,Fatal familial insomnia(FFI),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Pthirus pubis,"Pediculosis pubis(pubic lice, crab lice)",,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Rabies virus,Rabies,fluorescent antibody test (FAT),Supportive care,Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Respiratory syncytial virus(RSV),Respiratory syncytial virusinfection,A variety of laboratory tests,Treatment for RSV infection is focused primarily on supportive care.,Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+Rhinosporidium seeberi,Rhinosporidiosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Rhinovirus,Rhinovirusinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Rickettsia,Typhus fever,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Rickettsia akari,Rickettsialpox,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Rickettsia prowazekii,Epidemic typhus,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Rickettsia rickettsii,Rocky Mountain spotted fever(RMSF),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Rickettsia typhi,Murine typhus(Endemic typhus),Early diagnosis continued to be based on clinical suspicion.,The most effective antibiotics includetetracyclineandchloramphenicol.,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Rickettsiaspecies,Rickettsialinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Rift Valley fevervirus,Rift Valley fever(RVF),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Rotavirus,Rotavirusinfection,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Rubella virus,Rubella,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Sabiá virus,Brazilian hemorrhagic fever,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+"Salmonella enterica subsp. enterica,serovartyphi",Typhoid fever,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Salmonellaspecies,Salmonellosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Sarcoptes scabiei,Scabies,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+SARS coronavirus,Severe acute respiratory syndrome(SARS),,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Schistosomaspecies,Schistosomiasis,,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
+Severe acute respiratory syndrome coronavirus 2(SARS-CoV-2),Coronavirus disease 2019(COVID-19),,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Shigellaspecies,Shigellosis(bacillary dysentery),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Sin Nombre virus,HantavirusPulmonary Syndrome (HPS),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Sporothrix schenckii,Sporotrichosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Staphylococcus aureusorStreptococcus pyogenes,Toxic shock syndrome(TSS),,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Staphylococcusspecies,Staphylococcal food poisoning,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Streptococcus agalactiae,Group B streptococcal infection,Gram stain,Penicillin and ampicillin,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Streptococcus mutans,Dental caries,,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
+Streptococcus pneumoniae,Pneumococcal infection,Culture,"cephalosporins, and fluoroquinolones such aslevofloxacinandmoxifloxacin",Has Vaccine,Has Diagnosis,DiagnosisStatus,Yes,Has,Has,Has,0
+Streptococcus pyogenes,Group A streptococcal infection,Culture,Penicillin,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Strongyloides stercoralis,Strongyloidiasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Taenia solium,Cysticercosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Taeniaspecies,Taeniasis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Tick-borne encephalitis virus(TBEV),Tick-borne encephalitis,,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Toxocara canisorToxocara cati,Toxocariasis(visceral larva migrans (VLM)),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Toxoplasma gondii,Toxoplasmosis,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Treponema pallidum,"Bejel,Syphilis, andYaws",,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Trichinella spiralis,Trichinosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Trichomonas vaginalis,Trichomoniasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Trichophyton rubrum,Tinea manum(ringworm of the hand),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Trichosporon beigelii,White piedra(tinea blanca),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+Trichuris trichiura,Trichuriasis(whipworm infection),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Trypanosoma brucei,African sleeping sickness(African trypanosomiasis),Identification of trypanosomes in a sample by microscopic examination,Fexinidazoleby mouth orpentamidineby injection forT. b. gambiense.Suraminby injection is used forT. b. rhodesiense,Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Trypanosoma cruzi,Chagas disease(American trypanosomiasis),"Microscopicexamination of freshanticoagulatedblood, or itsbuffy coat, for motile parasites; or by preparation of thin and thickblood smearsstained withGiemsa.",Benznidazoleandnifurtimox(though benznidazole is the only drug available in most of Latin America),Under Research,Has Diagnosis,DiagnosisStatus,Under research,Has,Has,None,1
+unknown; evidence supports that it is infectious,Kawasaki disease,"Based on symptoms,ultrasound of the heart","Aspirin,immunoglobulin",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Ureaplasma urealyticum,Ureaplasma urealyticuminfection,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+usuallyAncylostoma braziliense; multiple other parasites,Cutaneous larva migrans(CLM),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+usuallyBurkholderia cepaciaand otherBurkholderiaspecies,Burkholderiainfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+usuallyCandida albicansand otherCandidaspecies,Candidiasis(Moniliasis; Thrush),"oral candidiasis, the person's mouth for white patches and irritation.vaginal candidiasis, vaginal itching or soreness, pain during sexual intercourse",Antifungal medications,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+usuallyClostridium perfringens; otherClostridiumspecies,Gas gangrene(Clostridial myonecrosis),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+"usuallyEpidermophyton floccosum,Trichophyton rubrum, andTrichophyton mentagrophytes",Tinea cruris(Jock itch),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+usuallyFonsecaea pedrosoi,Chromoblastomycosis,microscopy (KOH scrapings),"Itraconazole, anantifungalazole, is given orally, with or withoutflucytosine.",No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+usuallyGroup AStreptococcusandStaphylococcus,Cellulitis,history and physical examination,Penicillinase-resistantsemisynthetic penicillinor a first-generationcephalosporin,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+usuallyHortaea werneckii,Tinea nigra,,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+usuallyMetagonimus yokagawai,Metagonimiasis,Metagonimiasis is diagnosed by eggs seen infeces.,Praziquantel,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+usuallyMycobacterium tuberculosis,Tuberculosis,,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+usuallyNaegleria fowleri,Primary amoebic meningoencephalitis(PAM),flagellation test,"Miltefosine,fluconazole,amphotericin B,posaconazole,voriconazole,targeted temperature management",No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+usuallyNocardia asteroidesand otherNocardiaspecies,Nocardiosis,"chest x-ray to analyze the lungs, abronchoscopy, a brain/lung/skin biopsy, or asputum culture.",trimethoprim/sulfamethoxazoleor high doses ofsulfonamides,No Vaccine,Has Treatment,TreatmentStatus,No,Has,Has,None,1
+usuallyParagonimus westermaniand otherParagonimusspecies,Paragonimiasis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+usuallyrhinovirusesandcoronaviruses,Common cold(Acute viral rhinopharyngitis; Acute coryza),Based on symptoms,Supportive care,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+usuallyTrichophyton tonsurans,Tinea capitis(ringworm of the scalp),,,No Vaccine,No Treatment,TreatmentStatus,No,None,None,None,3
+usuallyTrichophytonspecies,Tinea barbae(barber's itch),,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Varicella zoster virus (VZV),Shingles(Herpes zoster),,,Has Vaccine,No Treatment,TreatmentStatus,Yes,None,None,Has,2
+Variola majoror Variola minor,Smallpox(variola),,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Venezuelan equine encephalitis virus,Venezuelan equine encephalitis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Vibrio cholerae,Cholera,A rapiddipsticktest is available.,oral rehydration therapy(ORT),Has Vaccine,Has Treatment,TreatmentStatus,Yes,Has,Has,Has,0
+Vibrio parahaemolyticus,Vibrio parahaemolyticus enteritis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Vibrio vulnificus,Vibrio vulnificus infection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+West Nile virus,West Nile fever,,,Under Research,No Treatment,TreatmentStatus,Under research,None,None,None,3
+Wuchereria bancroftiandBrugia malayi,Lymphatic filariasis(Elephantiasis),Microscopic examinationof blood,Albendazolewithivermectinordiethylcarbamazine,No Vaccine,Has Diagnosis,DiagnosisStatus,No,Has,Has,None,1
+Yellow fever virus,Yellow fever,,,Has Vaccine,No Diagnosis,DiagnosisStatus,Yes,None,None,Has,2
+Yersinia enterocolitica,Yersiniosis,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Yersinia pestis,Plague,"Finding the bacterium in a lymph node, blood,sputum",Gentamicinand afluoroquinolone,Under Research,Has Treatment,TreatmentStatus,Under research,Has,Has,None,1
+Yersinia pseudotuberculosis,Yersinia pseudotuberculosisinfection,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Zeaspora fungus,Zeaspora,,,No Vaccine,No Diagnosis,DiagnosisStatus,No,None,None,None,3
+Zika virus,Zika fever,,,Under Research,No Diagnosis,DiagnosisStatus,Under research,None,None,None,3
