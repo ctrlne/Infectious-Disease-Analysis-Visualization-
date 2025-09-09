@@ -1,6 +1,4 @@
-# Infectious-Disease-Analysis-Visualization-
-
-View the Live Power BI Dashboard Here
+#Infectious-Disease-Analysis-Visualization-
 
 Project Overview
 This is an end-to-end data science project that demonstrates a complete workflow from data acquisition to predictive modeling and business intelligence visualization. The project involved creating a unique dataset by scraping data on infectious diseases, building machine learning models to predict disease attributes, and creating an interactive dashboard to analyze the findings.
@@ -19,7 +17,7 @@ Data_Modeling.ipynb: Jupyter Notebook detailing the data cleaning, feature engin
 
 infections_list_cleaned.csv: The final, cleaned dataset produced by the web scraping notebook.
 
-[Your_PowerBI_File.pbix]: The Power BI project file for the data visualization dashboard.
+
 
 Tech Stack
 Data Acquisition: Python, Pandas, BeautifulSoup
