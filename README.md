@@ -1,4 +1,4 @@
-#Infectious-Disease-Analysis-Visualization-
+# Infectious-Disease-Analysis-Visualization
 
 Project Overview
 This is an end-to-end data science project that demonstrates a complete workflow from data acquisition to predictive modeling and business intelligence visualization. The project involved creating a unique dataset by scraping data on infectious diseases, building machine learning models to predict disease attributes, and creating an interactive dashboard to analyze the findings.
